@@ -52,6 +52,13 @@ Safety is baked into the core. The system never auto-downloads files; it guides 
 
 Even when you aren't looking, ARIS is listening. A background worker quietly monitors for new public datasets, issuing a subtle [NEW DATA] notification when it finds new data sets that have been made public. But when the AI detects a high-variance signal in its analysis, the system wakes up - a cinematic overlay triggers, and the voice loop announces the ANOMALY DETECTED alert until you acknowledge the find.
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Fbx0gTiu-Eg">
+    <img src="https://img.youtube.com/vi/Fbx0gTiu-Eg/maxresdefault.jpg" alt="Project ARIS - AI Space Discovery Engine Demo" style="width:100%;">
+  </a>
+  <p><i>Click the image above to watch the Project ARIS Discovery Engine in action.</i></p>
+</div>
+
 <img width="1917" height="1155" alt="Screenshot From 2026-01-03 04-15-28" src="https://github.com/user-attachments/assets/a8ced6cc-4414-40de-91d2-124d5ce9172f" />
 
 <img width="1917" height="1155" alt="Screenshot From 2026-01-03 04-15-40" src="https://github.com/user-attachments/assets/5bc07130-79e8-4023-9b36-36060add42a8" />
