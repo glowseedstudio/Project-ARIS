@@ -213,7 +213,7 @@ Project ARIS distinguishes between "New Data" and "Anomalies".
 ---
 
 
-## Getting Started 
+## Getting Started (Coming Soon!)
 
 
 *Note: Project ARIS is currently in active development (Alpha).*
